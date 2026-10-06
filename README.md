@@ -9,3 +9,7 @@
 ## Descripción
 
 Este repositorio corresponde a la evaluación T2 del curso de Programación. Su finalidad es preparar y configurar un proyecto Java/Maven para el control de versiones mediante Git, aplicando una estructura versionable, archivos de exclusión y un historial de commits que permita verificar la trazabilidad del proyecto.
+## Evidencia T2
+
+Esta sección corresponde a la evidencia de la evaluación T2 de Programación, donde se demuestra la configuración del proyecto Maven y el control de versiones mediante Git.
+
