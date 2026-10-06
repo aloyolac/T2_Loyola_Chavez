@@ -1,0 +1,1 @@
+Observación: Se realizaron modificaciones y pruebas de control de versiones mediante Git como parte de la evaluación T2.

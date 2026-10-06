@@ -12,4 +12,6 @@ Este repositorio corresponde a la evaluación T2 del curso de Programación. Su 
 ## Evidencia T2
 
 Esta sección corresponde a la evidencia de la evaluación T2 de Programación, donde se demuestra la configuración del proyecto Maven y el control de versiones mediante Git.
+## Control de cambios
 
+Se realizaron modificaciones en el proyecto para gestionar los cambios mediante Git, utilizando el Working Directory, el Staging Area y el repositorio local durante la evaluación T2.
