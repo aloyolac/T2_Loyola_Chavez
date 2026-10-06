@@ -15,3 +15,6 @@ Esta sección corresponde a la evidencia de la evaluación T2 de Programación, 
 ## Control de cambios
 
 Se realizaron modificaciones en el proyecto para gestionar los cambios mediante Git, utilizando el Working Directory, el Staging Area y el repositorio local durante la evaluación T2.
+## Gestión de ramas
+
+La rama utilizada es `feature-loyola`. En esta rama se desarrolló de manera independiente una funcionalidad de control de versiones mediante la clase `ControlVersion_Loyola.java`.
